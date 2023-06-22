@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tomasszz
-- 👀 I’m interested in Frontend, 3D Modeling, music 
-- 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Fullstack, 3D Modeling, music 
+- 🌱 I’m currently learning Backend (Java + Spring) && Angular
+- 💞️ 
+- 📫 tomasz.kraszewski@gmail.com
 
 <!---
 tomasszz/tomasszz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
